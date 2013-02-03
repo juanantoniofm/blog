@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to list virtual machines from VCenter with Python"
+title: "Como sacar informacion de un vCenter con python"
 date: 2013-02-03 01:55
 comments: true
 categories: programming, python, vmware, virtualization, automation
