@@ -3,6 +3,6 @@ layout: post
 title: "new-post"
 date: 2013-02-03 04:17
 comments: true
-categories: 
+categories: auto
 published: false
 ---
